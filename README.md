@@ -1,4 +1,6 @@
-# Singleton-PatternSoftware Design and Architecture Singleton Pattern
+# Singleton Pattern JAVA
+
+Software Design and Architecture Singleton Pattern 
 
 Everyone knows that all modern chocolate factories have computer controlled chocolate boilers. The
 job of the boiler is to take in chocolate and milk, bring them to a boil, and then pass them on to the
